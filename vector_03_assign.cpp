@@ -7,4 +7,12 @@ int main(){
     for(int i=0;i<v.size();i++){
         cout<<v[i]<<endl;
     }
+    //another
+    vector<int>v1(10);
+    for(int i=0;i<v1.size();i++){
+        cin>>v1[i];
+    }
+    for(int i=0;i<v1.size();i++){
+        cout<<v1[i]<<endl;
+    }
 }
